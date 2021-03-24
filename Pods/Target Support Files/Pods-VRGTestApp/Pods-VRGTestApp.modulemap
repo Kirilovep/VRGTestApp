@@ -1,0 +1,6 @@
+framework module Pods_VRGTestApp {
+  umbrella header "Pods-VRGTestApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
