@@ -1,5 +1,4 @@
 # VRGTestApp
- App for searching movies <br />
  [Use API](https://developer.nytimes.com/)
 ## Features:
   - List of Most emailed, Most shared, Most viewed news.
